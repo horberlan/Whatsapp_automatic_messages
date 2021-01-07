@@ -2,3 +2,4 @@
  :white_check_mark: Send automatic and programmed messages on WhatsApp
  <h1 style="color:blue;">This is a heading</h1>
 <span style="color:red">some **This is Red Bold.** text</span>
+<h3 style="color:#ff0000">Danger</h3>
